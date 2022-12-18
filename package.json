@@ -1,0 +1,25 @@
+{
+  "name": "-b3-dev-tu-lalande-theo",
+  "version": "1.0.0",
+  "description": "méthodologie de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoLalande/-b3-dev-tu-lalande-theo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoLalande/-b3-dev-tu-lalande-theo/issues"
+  },
+  "homepage": "https://github.com/TheoLalande/-b3-dev-tu-lalande-theo#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "prompt-sync": "^4.2.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
